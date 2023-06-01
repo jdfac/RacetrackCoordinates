@@ -1,9 +1,5 @@
 # -*- coding: utf-8 -*-
-"""
-Created on Wed Apr 20 09:59:16 2022
 
-@author: joefa
-"""
 # This script takes a csv containing gps information from a car doing laps
 # around a racetrack. The output is a shapefile containing polylines for each 
 # lap around the track. 
